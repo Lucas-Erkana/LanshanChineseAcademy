@@ -778,3 +778,8 @@ Responsive media queries
         text-align: center;
     }
 }
+
+.logo {
+    width: 70px;
+    height: 40px;
+}
