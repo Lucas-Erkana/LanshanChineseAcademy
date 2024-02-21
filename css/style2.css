@@ -1,7 +1,5 @@
 .service-box {
-    border-radius: 100rem;
+    border-radius: 100%;
 }
 
-.img-circle {
-    border-radius: 50%;
-}
+
