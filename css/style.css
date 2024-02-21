@@ -1,10 +1,3 @@
-/*
-    Theme Name: Mentor
-    Theme URL: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/
-    Author: BootstrapMade.com
-    Author URL: https://bootstrapmade.com
-*/
-
 body {
 	font-size: 15px;
     line-height: 1.52;
@@ -46,16 +39,16 @@ a:hover, a:focus{
 Navigation bar
 ************************************/
 .navbar-default .navbar-brand {
-    color: #206C9E;
+    color: #A4DFF0;
 }
 .navbar-default {
-    background-color: #A4DFF0
+    background-color: #206C9E
 }
 .course-text{
     padding: 84px;
 }
 .navbar-default .navbar-nav > li > a {
-    color: #717f86;
+    color: #ffffff;
     font-size: 14px;
     font-weight: 700;
 }
@@ -71,7 +64,7 @@ Navigation bar
 
 .navbar-nav .active a{
     background: none !important;
-    color: #206C9E !important;
+    color: #717f86 !important;
     outline: none;
 }
 
@@ -106,6 +99,12 @@ Navigation bar
 }
 .mart20{
 	margin-top: 20px;
+}
+
+.navbar-header img{
+    height: 4rem;
+    width: 4rem;
+    border-radius: 100%;
 }
 /***********************************
 Banner
